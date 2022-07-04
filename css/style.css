@@ -1,0 +1,194 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  padding: 10px 15px;
+  font-size: 15px;
+  font-family: Manrope;
+  font-weight: bold;
+  position: fixed;
+}
+
+.container-fluid {
+  background-color: #3F78E0;
+  color: #FFFFFF;
+  font-weight: bold;
+  margin: 0px 15px 0px 15px;
+}
+.container-fluid h6 {
+  color: #FFFFFF;
+}
+.container-fluid .location {
+  text-decoration: underline;
+  padding: 15px 35px 20px;
+}
+
+#navbarText {
+  padding: 10px 15px;
+}
+#navbarText .navbar-text {
+  color: #FFFFFF;
+}
+
+#solutions .right {
+  padding: 20px 0;
+}
+
+.left p {
+  color: #60697b;
+}
+
+.names {
+  width: 100%;
+  height: auto !important;
+  padding: 60px 15px;
+}
+.names img {
+  width: 50%;
+}
+
+#service {
+  -webkit-text-emphasis: none;
+          text-emphasis: none;
+}
+#service .top-service {
+  text-align: center;
+  padding-top: 40px;
+}
+#service h2 {
+  color: #AAB0BC;
+  font-size: 15px;
+}
+#service h3 {
+  font-size: 40px;
+  color: #343F52;
+}
+#service .bottom-service {
+  text-align: center;
+}
+#service .bottom-service .icon {
+  background-color: #3F78E0;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  padding: 16px;
+  margin: 30px 99px 15px;
+}
+#service .bottom-service .href {
+  color: #3F78E0;
+  list-style: none;
+}
+#service .bottom-service h4 {
+  color: #343F52;
+  font-size: 19px;
+}
+#service .bottom-service p {
+  color: #60697b;
+  font-size: 16px;
+}
+
+#works .right p {
+  color: #60697b;
+  font-size: 21px;
+  margin: 0 0 30px;
+}
+#works .works-text h4 {
+  color: #343F52;
+  font-size: 19px;
+}
+#works .works-text p {
+  color: #60697b;
+  font-size: 16px;
+}
+
+#check {
+  margin: 6rem;
+}
+#check h2 {
+  color: #AAB0BC;
+  font-size: 15px;
+}
+#check h3 {
+  color: #343F52;
+  font-size: 40px;
+}
+
+#carousel {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+#carousel img {
+  width: 100%;
+}
+
+#company .all-company {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+#company .right {
+  padding: 50px;
+}
+
+#members .card {
+  border-style: hidden;
+  margin-top: 50px;
+}
+#members h2 {
+  font-size: 15px;
+  color: #AAB0BC;
+}
+#members h3 {
+  color: #343F52;
+  font-size: 36px;
+}
+#members p {
+  font-size: 16px;
+  color: #60697b;
+}
+#members btn {
+  border-radius: 60px;
+}
+#members img {
+  border-radius: 50%;
+}
+
+.card-bodies {
+  text-align: center;
+}
+
+.card-icon {
+  text-align: center;
+}
+
+#last-content .left {
+  position: relative;
+}
+#last-content .right {
+  text-align: center;
+  padding: 0px 35px;
+  position: absolute;
+}
+#last-content .right .ratings {
+  padding: 10rem 20rem;
+  background-color: #f6f7f9;
+}
+#last-content .right .icon-star {
+  color: #fcc032;
+}
+#last-content .right .text p {
+  font-size: 20px;
+  color: #60697b;
+}
+#last-content .right .text h5 {
+  color: #343F52;
+  font-size: 18px;
+}
+#last-content .right .text span {
+  color: #AAB0BC;
+  font-size: 13px;
+}/*# sourceMappingURL=style.css.map */
